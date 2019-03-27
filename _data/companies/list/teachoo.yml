@@ -1,0 +1,5 @@
+name: Teachoo
+logouser: 54-teachoo-logo.png
+homepage: https://www.teachoo.com/
+usage: |
+    **Teachoo:** Uses Scrapy to collect data from Schools all over the world.
